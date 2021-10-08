@@ -261,3 +261,14 @@ textarea {
   }
 }
 
+/* Debut de mon css */
+
+.menu  {
+  display: flex;
+  justify-content: space-between;
+}
+
+.images {
+  width: 1000px;
+  height: 1000px;
+}
