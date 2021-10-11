@@ -1,14 +1,14 @@
-#navigation {
-    padding: 0; margin: 0;
-    display: flex;
-}
 
-#navigation li {
-    display: flex;
-    list-style: none;
-    
-}
-#navigation a {
-    display: inline-block;
-    margin: 0 30px;
-}
+  
+  /* Style the links inside the navigation bar */
+.nav {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+ 
