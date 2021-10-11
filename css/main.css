@@ -269,6 +269,11 @@ textarea {
 }
 
 .images {
-  width: 1000px;
-  height: 1000px;
+  justify-content: center;
+  height: 480px;
+  width: 400px;
+}
+
+.accueil {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
