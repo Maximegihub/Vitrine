@@ -10,5 +10,15 @@ nav{
 .menu  {
     display: flex;
     justify-content: space-between;
-  }
-  
+}
+
+ul {
+    margin: 100%;
+    width: 100%;
+    background-attachment: fixed;
+
+}
+.accueil {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
