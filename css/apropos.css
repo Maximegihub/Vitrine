@@ -26,5 +26,14 @@ li a:hover {
 .menu  {
     display: flex;
     justify-content: space-between;
-  }
+}
+
+.imgfond {
+    
+    margin: 0%;
+    display: flex;
+    width: 1253px;
+    height: 900px;
+    
+} 
   

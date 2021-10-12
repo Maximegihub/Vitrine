@@ -22,3 +22,12 @@ li a {
 li a:hover {
     background-color: #111;
 }
+
+.imgfond {
+    
+    margin: 0%;
+    display: flex;
+    width: 1253px;
+    height: 900px;
+    
+} 

@@ -26,6 +26,9 @@ li a:hover {
 .imgfond {
     
     margin: 0%;
-    display: inline-block;
-    background-image: url(Desktop/Développement/Vtrine/img/AnyConv.com__arriere.jpg);
+    display: flex;
+    width: 1253px;
+    height: 900px;
+    
 } 
+
