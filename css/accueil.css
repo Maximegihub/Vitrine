@@ -27,8 +27,9 @@ li a:hover {
     
     margin: 0%;
     display: flex;
-    width: 1253px;
-    height: 900px;
+    width: 1800px;
+    height: 600px;
+    background-size: auto;
     
 } 
 
