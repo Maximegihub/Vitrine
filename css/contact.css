@@ -3,22 +3,22 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(187, 90, 147);
-  }
+    background-color: rgb(204, 130, 188);
+}
   
-  li {
+li {
     float: left;
-  }
-  
-  li a {
+}
+
+li a {
     display: block;
-    color: white;
+    color: rgb(141, 135, 135);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
   
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+li a:hover {
     background-color: #111;
-  }
+}
